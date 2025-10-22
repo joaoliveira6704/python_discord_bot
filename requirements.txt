@@ -1,0 +1,7 @@
+ffmpeg
+PyNaCl
+discord
+requests
+mutagen
+spotipy
+yt_dlp
